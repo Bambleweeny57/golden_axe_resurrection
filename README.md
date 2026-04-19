@@ -1,4 +1,4 @@
-# golden_axe_resurrection
+# Golden= Axe I Resurrection
 
 Resurrection ROM Kit for Sega Golden Axe I.
 
